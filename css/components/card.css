@@ -1,0 +1,30 @@
+.cards {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.card {
+  width: 300px;
+  height: 300px;
+  margin: 10px 20px;
+  box-shadow: -1px 1px 3px lightgray;
+}
+
+.card img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 200px;
+  width: 80%;
+}
+
+.card h4 {
+  padding-left: 15px;
+}
+
+.card p {
+  padding-left: 15px;
+  margin-bottom: 15px;
+}

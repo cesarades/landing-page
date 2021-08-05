@@ -1,0 +1,24 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(41, 41, 41);
+}
+
+.footer ul {
+  list-style-type: none;
+  display: flex;
+}
+
+.footer li {
+  margin: 10px 20px;
+}
+
+.footer a {
+  color: tomato;
+  font-size: 40px;
+}
+
+.footer p {
+  color: white;
+}
